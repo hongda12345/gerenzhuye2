@@ -1,0 +1,26 @@
+/*
+* @Author: 宏达
+* @Date:   2017-08-24 12:40:29
+* @Last Modified by:   宏达
+* @Last Modified time: 2017-10-29 20:43:20
+*/
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	font-family: '微软雅黑',sans-serif;
+	box-sizing: border-box;
+}
+a{
+	text-decoration: none;
+	color: #fff;
+}
+img{
+	vertical-align: middle;
+}
+body{
+	background: #ffffff;
+}
+body,html{
+	font-size: 16px;
+}
